@@ -6,7 +6,7 @@
 #include "bsort.h"
 #include "ssort.h"
 #include "isort.h"
-#define datacnt 100000
+#define datacnt 1000000
 
 int number[datacnt];
 char **word;
