@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "ssort.h"
-#define datacnt 100000
+#define datacnt 1000000
 
 int *ssortd(int  *number)
 {
